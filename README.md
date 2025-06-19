@@ -1,7 +1,8 @@
 # <a href="https://www.linkedin.com/in/anthony-jenkins-cyber/">Anthony Jenkins</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+💻 Welcome to My IT and Cybersecurity Project Portfolio
 
+I bring extensive experience across both IT and cybersecurity, with a strong focus on practical, results-driven solutions. From managing systems and automating workflows to securing networks and mitigating vulnerabilities, my projects reflect a well-rounded approach to modern infrastructure and security challenges. Feel free to explore my portfolio—each project highlights the skills, tools, and real-world insight I bring to technology teams.
 
 ## ⚠️ Vulnerability Management Projects
 
