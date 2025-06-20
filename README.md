@@ -1,4 +1,3 @@
-
 # <a href="https://www.linkedin.com/in/anthony-jenkins-cyber/">Anthony Jenkins</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 💻 Welcome to My IT and Cybersecurity Project Portfolio
@@ -18,21 +17,28 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 
 - **[Local Active Directory Lab Setup (VirtualBox + Server 2019)](https://github.com/yourusername/local-active-directory-lab)**
 
-<hr/>
+---
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/___________  
-[youtube]: https://www.youtube.com/c/___________  
-[instagram]: https://www.instagram.com/___________  
-[linkedin]: https://linkedin.com/in/___________
+<p align="left">
+  <a href="https://www.youtube.com/c/___________" target="_blank">
+    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+  <a href="https://twitter.com/___________" target="_blank">
+    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/___________" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/___________" target="_blank">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
+
