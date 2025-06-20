@@ -1,3 +1,4 @@
+
 # <a href="https://www.linkedin.com/in/anthony-jenkins-cyber/">Anthony Jenkins</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 💻 Welcome to My IT and Cybersecurity Project Portfolio
@@ -13,18 +14,22 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🧪 IT Beginner Labs
+
+- **[Local Active Directory Lab Setup (VirtualBox + Server 2019)](https://github.com/yourusername/local-active-directory-lab)**
+
 <hr/>
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[twitter]: https://twitter.com/___________  
+[youtube]: https://www.youtube.com/c/___________  
+[instagram]: https://www.instagram.com/___________  
 [linkedin]: https://linkedin.com/in/___________
 
 <!--
