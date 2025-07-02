@@ -8,6 +8,10 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 
 - **[Vulnerability Management Program Implementation](https://github.com/techtracker619/vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+## 🧪 IT Beginner Labs
+
+- [Local Active Directory Lab Setup (VirtualBox + Server 2019)](./Local_AD_Lab_Setup.md)
+- [Create and Manage AD Users, Groups, and Organizational Units (OUs)](./Create_AD_Users_Groups_OUs.md)
 
 ## 🚨 Threat Hunting and Security Operations
 
