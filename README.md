@@ -16,7 +16,8 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 ## 🧪 IT Beginner Labs
 
 - **[Local Active Directory Lab Setup (VirtualBox + Server 2019)](https://github.com/yourusername/local-active-directory-lab)**
-- **- [Create and Manage AD Users, Groups, and Organizational Units (OUs)](./Create_AD_Users_Groups_OUs.md)
+
+
 
 ---
 
