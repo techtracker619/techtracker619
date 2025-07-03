@@ -55,4 +55,31 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
     <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
   </a>
 </p>
+<p align="left">
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@ByteLibrary" target="_blank" style="text-decoration: none;">
+    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" />
+  </a>
+
+  <!-- X (formerly Twitter) -->
+  <a href="https://x.com/byte_library?s=11" target="_blank" style="text-decoration: none;">
+    <img alt="X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anthony-jenkins-cyber/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="text-decoration: none;">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/byte.library/?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr#" target="_blank" style="text-decoration: none;">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+  </a>
+
+  <!-- Website (Neutral Globe Icon) -->
+  <a href="https://yourwebsite.com" target="_blank" style="text-decoration: none;">
+    <img alt="Website" width="30px" src="https://cdn.jsdelivr.net/gh/lipis/flag-icons@main/globe.svg" />
+  </a>
+</p>
+
 
