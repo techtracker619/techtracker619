@@ -54,39 +54,27 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 <h2>🤝 Connect With Me</h2>
 <hr />
 
-<!-- Social Media Icons Row -->
-<div style="display: flex; justify-content: start; align-items: center; gap: 30px; margin-top: 20px;">
-
+<p align="left">
   <!-- YouTube -->
-  <a href="https://youtube.com/yourchannel" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-youtube fa-2x" style="color: black;"></i>
+  <a href="https://www.youtube.com/c/___________" target="_blank">
+    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" />
   </a>
 
   <!-- X (formerly Twitter) -->
-  <a href="https://x.com/yourhandle" target="_blank" style="text-decoration: none;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 512 512" fill="black">
-      <path d="M320 0l-96 160L64 0H0l160 256L0 512h64l160-160 96 160h64L224 256 384 0z"/>
-    </svg>
+  <a href="https://x.com/___________" target="_blank">
+    <img alt="X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/yourhandle" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-linkedin fa-2x" style="color: black;"></i>
+  <a href="https://linkedin.com/in/___________" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/yourhandle" target="_blank" style="text-decoration: none;">
-    <i class="fab fa-instagram fa-2x" style="color: black;"></i>
+  <a href="https://www.instagram.com/___________" target="_blank">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
   </a>
-
-</div>
-
-<!-- Font Awesome CDN (needed for icons) -->
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-/>
-
+</p>
 
 
 
