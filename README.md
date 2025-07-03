@@ -28,33 +28,12 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 
 ---
 
--->
+
 
 <!-- 👋 Connect With Me -->
 <h2>🤝 Connect With Me</h2>
 <hr />
 
-<p align="left">
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/c/___________" target="_blank">
-    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" />
-  </a>
-
-  <!-- X (formerly Twitter) -->
-  <a href="https://x.com/___________" target="_blank">
-    <img alt="X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/___________" target="_blank">
-    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/___________" target="_blank">
-    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
-  </a>
-</p>
 <p align="left">
   <!-- YouTube -->
   <a href="https://www.youtube.com/@ByteLibrary" target="_blank" style="text-decoration: none;">
@@ -75,11 +54,7 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
   <a href="https://www.instagram.com/byte.library/?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr#" target="_blank" style="text-decoration: none;">
     <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
   </a>
-
-  <!-- Website (Neutral Globe Icon) -->
-  <a href="https://yourwebsite.com" target="_blank" style="text-decoration: none;">
-    <img alt="Website" width="30px" src="https://cdn.jsdelivr.net/gh/lipis/flag-icons@main/globe.svg" />
-  </a>
 </p>
+
 
 
