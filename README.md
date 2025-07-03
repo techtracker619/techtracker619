@@ -21,9 +21,9 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 - **<u>[Lab #1: Creating and Managing AD Users, Groups, and OUs (GUI-Based)](https://github.com/techtracker619/users)</u>**
 - **<u>[Lab #2: Set Up File Sharing with NTFS and Share Permissions](https://github.com/techtracker619/serverfiles)</u>**
 - **<u>[Lab #3: Join Windows 10 Client to the Domain](https://github.com/techtracker619/win10)</u>**
-- **<u>[Lab #4: Install Active Directory Domain Services (AD DS)](https://github.com/yourusername/Lab-4-Install-AD-DS)</u>**
+- **<u>[Lab #4: Install Active Directory Domain Services (AD DS)](https://github.com/techtracker619/adcs)</u>**
 - **<u>[Lab #5: GitHub Lab Setup and Documentation Workflow](https://github.com/yourusername/Lab-5-GitHub-Documentation-Workflow)</u>**
-- **<u>[Lab #6: DHCP Server Installation and Configuration](https://github.com/yourusername/Lab-6-DHCP-Server-Setup)</u>**
+- **<u>[Lab #6: DHCP Server Installation and Configuration](https://github.com/techtracker619/dhcp)</u>**
 
 ---
 
