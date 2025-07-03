@@ -50,7 +50,6 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
 
-
 <!-- 👋 Connect With Me -->
 <h2>🤝 Connect With Me</h2>
 <hr />
@@ -87,5 +86,16 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 />
+
+
+
+
+
+
+<!-- 👋 Connect With Me -->
+<h2>🤝 Connect With Me</h2>
+<hr />
+
+
 
 
