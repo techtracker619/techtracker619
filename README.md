@@ -17,6 +17,14 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 
 
 ## 💼 Beginner IT Labs
+## 🧪 Active Directory & Windows Server Labs
+
+- **<u>[Lab #1: Creating and Managing AD Users, Groups, and OUs (GUI-Based)](https://github.com/yourusername/Lab-1-Create-AD-Users-GUI)</u>**
+- **<u>[Lab #2: Set Up File Sharing with NTFS and Share Permissions](https://github.com/yourusername/Lab-2-File-Sharing-Permissions)</u>**
+- **<u>[Lab #3: Join Windows 10 Client to the Domain](https://github.com/yourusername/Lab-3-Domain-Join-Win10)</u>**
+- **<u>[Lab #4: Install Active Directory Domain Services (AD DS)](https://github.com/yourusername/Lab-4-Install-AD-DS)</u>**
+- **<u>[Lab #5: GitHub Lab Setup and Documentation Workflow](https://github.com/yourusername/Lab-5-GitHub-Documentation-Workflow)</u>**
+- **<u>[Lab #6: DHCP Server Installation and Configuration](https://github.com/yourusername/Lab-6-DHCP-Server-Setup)</u>**
 
 ---
 
