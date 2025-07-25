@@ -27,7 +27,7 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 - **<u>[Lab #6: DHCP Server Installation and Configuration](https://github.com/techtracker619/dhcp)</u>**
 
 ---
-## 📚 GRC Projects
+## 🛡️ Governance, Risk, and Compliance
 
 - **<u>[GRC Overview – A Reader-Friendly Introduction](https://github.com/techtracker619/grc-overview)</u>**
 - **<u>[Policy Templates – InfoSec, AUP, Data Classification](https://github.com/techtracker619/grc-overview/tree/main/policies)</u>**
