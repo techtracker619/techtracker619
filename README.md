@@ -29,7 +29,7 @@ I bring extensive experience across both IT and cybersecurity, with a strong foc
 ---
 ## 🛡️ Governance, Risk, and Compliance
 
-- **<u>[GRC Overview – A Reader-Friendly Introduction](https://github.com/techtracker619/grc-overview)</u>**
+- **<u>[GRC Overview – A Reader-Friendly Introduction](https://github.com/techtracker619/grc)</u>**
 - **<u>[Policy Templates – InfoSec, AUP, Data Classification](https://github.com/techtracker619/policytemplates)</u>**
 - **<u>[Risk Register Example – Asset-Based Risk Scoring](https://github.com/techtracker619/grc-overview/tree/main/risk-register)</u>**
 - **<u>[Security Awareness Plan – 12-Month Training Calendar](https://github.com/techtracker619/risk12)</u>**
